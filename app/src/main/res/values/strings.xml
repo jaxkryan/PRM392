@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="intro_title"><font color="#000000">Unveiling a world </font>\n <font color="#008b86"> Shoes </font> \n for your comfort</string>
+    <string name="intro_text">Browse the lastest style from top brands \n Get personalized recommmendations\n Enjoy fast, free shipping</string>
+    <string name="intro_signin">Already have an account? <font color="#008b86">Sign in</font></string>
+
+</resources>
